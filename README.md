@@ -1,23 +1,20 @@
-<img src="https://www.mitsunee.com/assets/img/logo3.png" width="300px" align="center">
-# What I do
-I make small online tools for games like Damage Calculators or Ingame Event Timers. I mostly use Javascript/jQuery and a tiny bit of PHP.
-
-# Projects
-
 <p align="center">
 <img src="https://www.mitsunee.com/assets/img/logo3.png" width="320px">
 </p>
+
 # What I do
 I make small online tools for games like Damage Calculators or Ingame Event Timers. I mostly use Javascript/jQuery and a tiny bit of PHP. I plan to learn more languages in the future and get into making Discord bots to accompany tools I've made like FGO Time.
 
 # Projects
 
 <img src="https://www.mitsunee.com/fgo/assets/icons/fgo-index.png" align="right">
+
 ## FGO Sites
 I've been playing Fate/Grand Order and made an entire section of sites with tools for it.  
 You can find them [on my site](https://www.mitsunee.com/fgo/) or through the [fgo-sites](https://github.com/Mitsunee/fgo-sites) Repository.
 
 <img src="https://www.mitsunee.com/gen3dmgcalc/i/mons/icons/384.png" align="left">
+
 ## Pokemon Generation 3 Damage Calculator
 To help with routing Speedruns of Pokemon Emerald I made a Damage Calculator based on C code written by pret (and team) based on a disassembly of the game. It is available [here](https://www.mitsunee.com/gen3dmgcalc) and the [Gen3DmgCalc](https://github.com/Mitsunee/Gen3DmgCalc) Repository.
 
