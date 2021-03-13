@@ -3,29 +3,23 @@
 </p>
 
 # What I do
-I make small online tools for games like Damage Calculators or Ingame Event Timers. I mostly use Javascript/jQuery and a tiny bit of PHP. I plan to learn more languages in the future and get into making Discord bots to accompany tools I've made like FGO Time.
+I make small online tools for games like Calculators or Event Timers. I mostly use JavaScript/TypeScript (still learning the latter) and a tiny bit of PHP. I also work as a freelancer for frontend development, though I am currently not looking for additional work.
 
 # Projects
 
 <img src="https://www.mitsunee.com/fgo/assets/icons/fgo-index.png" align="right">
 
 ## FGO Tools
-I've been playing Fate/Grand Order and made an entire section of sites with tools for it.  
-You can find them [on my site](https://www.mitsunee.com/fgo/) or through   
-the [fgo-sites](https://github.com/Mitsunee/fgo-sites) Repository.
-
-<img src="https://www.mitsunee.com/azurlane/assets/icon.png" align="right">
-
-## Azur Lane Tools
-Just like for FGO, I made a site with tools for Azur Lane. Currently there's only a timer site, but I'll probably add more in the future.  
-You can find it [on my site](https://www.mitsunee.com/azurlane/#/). The repository will be made public in the future.
+I've been playing Fate/Grand Order since 2019 and have made various tools for the game since then.  
+You can find a list of them [on the FGO Index site](https://www.mitsunee.com/fgo/) or through the [fgo-sites](https://github.com/Mitsunee/fgo-sites) Repository.  
+The current versions are closed-source and written in jquery. A full rewrite turning the tools into a React app is currently in the works, which will be opensource when released.
 
 <img src="https://www.mitsunee.com/gen3dmgcalc/i/mons/icons/384.png" align="left">
 
 ## Pokemon Generation 3 Damage Calculator
-To help with routing Speedruns of Pokemon Emerald I made a Damage Calculator based on C code written by pret (and team) based on a disassembly of the game. It is available [here](https://www.mitsunee.com/gen3dmgcalc) and the [Gen3DmgCalc](https://github.com/Mitsunee/Gen3DmgCalc) Repository.
+To help with routing Speedruns of Pokemon Emerald I made a Damage Calculator based on C code written by pret (and team) based on a disassembly of the game. It is available at [mitsunee.com/gen3dmgcalc](https://www.mitsunee.com/gen3dmgcalc). The source code is available in the [Gen3DmgCalc](https://github.com/Mitsunee/Gen3DmgCalc) Repository.
 
 ## Libraries and such
-I've written a library to better manage Intervals and Timeouts in Javascript, which is available here: [fox-timers](https://github.com/Mitsunee/fox-timers).
+I've written [Spork](https://github.com/Mitsunee/spork), a Javascript package for some small convenience functions such as `clamp()`, `range()` and classes to wrap `setTimeout()` and `setInterval()`.
 
-I also have a [stuff](https://github.com/Mitsunee/stuff) repository where I post random code snippets that don't need a fullblown repo.
+I also have a [stuff](https://github.com/Mitsunee/stuff) repository where I post other random code snippets and scripts.
