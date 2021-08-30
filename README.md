@@ -16,7 +16,7 @@ Wanna talk? Feel free to visit my [Discord Server](https://discord.gg/ZncPkjw) o
 ## FGO Tools
 I've been playing Fate/Grand Order since 2019 and have made various tools for the game since then.  
 You can find a list of them on the [FGO Index](https://www.mitsunee.com/fgo/) site.  
-The current versions are closed-source and written in jquery/PHP. I am planning to fully rewrite these sites using modern technologies and redesign them to work better on non-desktop screensizes, as well as of course adding a few new tools.
+The current versions are closed-source and written in jquery/PHP; I am currently rewriting these sites as a NextJS app and redesigning them to work better on non-desktop screensizes, as well as of course adding a few new tools, in the [fgo-tools](https://github.com/Mitsunee/fgo-tools) Repository.
 
 <img src="https://www.mitsunee.com/gen3dmgcalc/i/mons/icons/384.png" align="left">
 
