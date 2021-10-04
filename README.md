@@ -18,6 +18,9 @@ I've been playing Fate/Grand Order since 2019 and have made various tools for th
 You can find a list of them on the [FGO Index](https://www.mitsunee.com/fgo/) site.  
 The current versions are closed-source and written in jquery/PHP; I am currently rewriting these sites as a NextJS app and redesigning them to work better on non-desktop screensizes, as well as of course adding a few new tools, in the [fgo-tools](https://github.com/Mitsunee/fgo-tools) Repository.
 
+## Modern Diacritics
+[modern-diacritics](https://github.com/Mitsunee/modern-diacritics) is a fork of the diacritics (formerly node-diacritics) and provides a modern solution to sanitize and normalize strings for search engine implementations. It is published as a tree-shakeable ES Module and provides several new features such as normalizing symbols like quotation marks and a slugify implementation using its sanitizer module.
+
 <img src="https://www.mitsunee.com/gen3dmgcalc/i/mons/icons/384.png" align="left">
 
 ## Pokemon Generation 3 Damage Calculator
@@ -26,7 +29,5 @@ In 2017 I made a Damage Calculator based on (at first a python script by G_Heinz
 ## Atlas Academy
 I've also contributed the initial versions (as well as some maintenance) of the ItemPage and ItemsPage components for Atlas Academy's [DB (FGO Game Data Navigator)](https://apps.atlasacademy.io/db/)
 
-## Libraries and such
-I've written [Spork](https://github.com/Mitsunee/spork), a Javascript package for some small convenience functions such as `clamp()`, `range()` and classes to wrap `setTimeout()` and `setInterval()`. I am planning to re-release spork's modules as separate packages as well as add a few new ones in the future.
-
+## Stuff
 I also have a [stuff](https://github.com/Mitsunee/stuff) repository where I post other random code snippets and (user)scripts.
