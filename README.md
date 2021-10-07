@@ -3,7 +3,7 @@
 </p>
 
 # What I do
-I am a JavaScript frontend developer (currently as a freelancer and hobbyist) and make tools and webapps related to games I play in my free time, as well as developing smaller libraries and contributing to libraries I use often. I've contributed fixes, features and translations to [spacetime](https://github.com/spencermountain/spacetime), [nanostores](https://github.com/nanostores/nanostores) and [other projects](https://github.com/pulls?q=author%3Amitsunee+-user%3Amitsunee+is%3Apr+is%3Amerged+).
+I am a JavaScript frontend developer (currently as a freelancer and hobbyist) making tools and webapps related to games I play in my free time, as well as developing smaller libraries and contributing to libraries I use often. I've contributed fixes, features and translations to [spacetime](https://github.com/spencermountain/spacetime), [nanostores](https://github.com/nanostores/nanostores) and [other projects](https://github.com/pulls?q=author%3Amitsunee+-user%3Amitsunee+is%3Apr+is%3Amerged+).
 
 If you wanna know what I wanna learn/have learnt this year visit my [Coding Stuff (2021) Trello board](https://trello.com/b/w68tfAQP/coding-stuff-2021).
 
