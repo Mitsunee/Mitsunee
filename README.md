@@ -3,9 +3,9 @@
 </p>
 
 # What I do
-I am a JavaScript frontend developer (currently as a freelancer and hobbyist) making tools and webapps related to games I play in my free time, as well as developing smaller libraries and contributing to libraries I use often. I've contributed fixes, features and translations to [spacetime](https://github.com/spencermountain/spacetime), [nanostores](https://github.com/nanostores/nanostores) and [other projects](https://github.com/pulls?q=author%3Amitsunee+-user%3Amitsunee+is%3Apr+is%3Amerged+).
+I am a JavaScript frontend developer (currently as a freelancer and hobbyist) making tools and webapps related to games I play in my free time, as well as developing smaller libraries and contributing to libraries I use often like [spacetime](https://github.com/spencermountain/spacetime), [nanostores](https://github.com/nanostores/nanostores) and [other projects](https://github.com/pulls?q=author%3Amitsunee+-user%3Amitsunee+-user%3Afoxkit-js+is%3Apr+is%3Amerged+). I've also volunteered as a translator (English->German) for some projects.
 
-If you wanna know what I wanna learn/have learnt this year visit my [Coding Stuff (2021) Trello board](https://trello.com/b/w68tfAQP/coding-stuff-2021).
+If you wanna know what I'm currently learning visit my [Coding Stuff](https://trello.com/b/w68tfAQP/coding-stuff-2021) Trello board.
 
 Wanna talk or even hire me? Feel free to visit my [Discord Server](https://discord.gg/ZncPkjw) or @ me on [Twitter](https://twitter.com/Mitsunee)!
 
@@ -22,7 +22,7 @@ The current versions are closed-source and written in jquery/PHP; I am currently
 [Foxkit](https://github.com/foxkit-js) is a javascript utility module collection dual-published as CJS and ESM with type declaration for TypeScript. The goal is to reduce the amount of code I constantly copypaste from project to project (like the `clamp` module) with centralized and fully tested known-good versions.
 
 ## Modern Diacritics
-[modern-diacritics](https://github.com/Mitsunee/modern-diacritics) is a fork of the diacritics (formerly node-diacritics) and provides a modern solution to sanitize and normalize strings for search engine implementations. It is published as a tree-shakeable ES Module and provides several new features such as normalizing symbols like quotation marks and a slugify implementation using its sanitizer module.
+[modern-diacritics](https://github.com/Mitsunee/modern-diacritics) is a fork of the diacritics (formerly node-diacritics) with many new features providing a modern solution to latinizing strings and normalizing symbols for search engine implementations. It's dual-published and fully tested (just like Foxkit packages).
 
 <img src="https://www.mitsunee.com/gen3dmgcalc/i/mons/icons/384.png" align="left">
 
