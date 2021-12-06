@@ -28,8 +28,5 @@ The code is fully open-source and available in the [fgo-tools](https://github.co
 ## Pokemon Generation 3 Damage Calculator
 In 2017 I made a Damage Calculator based on (at first a python script by G_Heinz and later) a disassembly of the Pokemon Ruby by pret (+team) to help with Speedrun routing. It is available at [mitsunee.com/gen3dmgcalc](https://www.mitsunee.com/gen3dmgcalc). The source code is available in the [Gen3DmgCalc](https://github.com/Mitsunee/Gen3DmgCalc) Repository.
 
-## Atlas Academy
-I've also contributed the initial versions (as well as some maintenance) of the ItemPage and ItemsPage components for Atlas Academy's [DB (FGO Game Data Navigator)](https://apps.atlasacademy.io/db/)
-
 ## Stuff
 I also have a [stuff](https://github.com/Mitsunee/stuff) repository where I post other random code snippets and (user)scripts.
