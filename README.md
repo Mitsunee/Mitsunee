@@ -9,7 +9,7 @@ Wanna talk or even hire me? Feel free to visit my [Discord Server](https://disco
 
 ## Goals for 2022
 
-In 2022 I want to focus a little more on exploring Backend Tech as well as learning a non-web-related programming language for hobby projects as a change of pace. More detailed plans are on my [Trello board for 2022](https://trello.com/b/Btyu4S9s/coding-stuff-2022).
+In 2022 I want to focus a little more on exploring Backend Tech as well as learning a non-web-related programming language for hobby projects as a change of pace. More detailed plans are on my [Trello board for 2022](https://trello.com/b/Btyu4S9s/tech-coding-2022).
 
 # My Projects
 
