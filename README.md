@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Mitsunee/mitsunee/raw/main/images/logo3.png" width="320px">
+<img src="https://github.com/Mitsunee/mitsunee/raw/main/images/logo4_sticker.svg" width="480px">
 </p>
 
 # What I do
