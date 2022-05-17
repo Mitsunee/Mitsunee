@@ -7,10 +7,6 @@ I am a web developer (freelancer and hobbyist) making tools and webapps related 
 
 Wanna talk or even hire me? Feel free to visit my [Discord Server](https://discord.gg/ZncPkjw) or reach out on [Twitter](https://twitter.com/Mitsunee).
 
-## Goals for 2022
-
-In 2022 I want to focus a little more on exploring Backend Tech as well as learning a non-web-related programming language for hobby projects as a change of pace. More detailed plans are on my [Trello board for 2022](https://trello.com/b/Btyu4S9s/tech-coding-2022).
-
 # My Projects
 
 <img src="https://github.com/Mitsunee/mitsunee/raw/main/images/icon_64.png" align="right">
@@ -22,9 +18,15 @@ The code is fully open-source and available in the [fgo-tools](https://github.co
 
 ## JavaScript Packages
 
-The [Foxkit](https://github.com/foxkit-js) project is a utility module collection dual-published as CJS and ESM with type declaration for TypeScript. The goal is to reduce the amount of code I constantly copypaste from project to project (like the `clamp` module) with centralized and fully tested known-good versions.
+The [Foxkit](https://github.com/Mitsunee/foxkit) project is a collection of npm packages with the goal of reducing the amount of code I constantly copy-paste from project to project (like the `clamp` module) with centralized and fully tested known-good versions and streamlining updates without breaking things by accident.
 
-[modern-diacritics](https://github.com/Mitsunee/modern-diacritics) is a fork of the diacritics (formerly node-diacritics) with many new features providing a modern solution to latinizing strings and normalizing symbols for search engine implementations. It's dual-published and fully tested (just like Foxkit packages).
+[modern-diacritics](https://github.com/Mitsunee/modern-diacritics) is a fork of the diacritics package with many new features providing a modern solution to latinizing strings and normalizing symbols.
+
+[![NPM](https://nodei.co/npm/modern-diacritics.png?compact=true)](https://nodei.co/npm/modern-diacritics/)
+
+[picoapi](https://github.com/Mitsunee/picoapi) is a WIP REST-client project that aims to create simple but powerful facades for requests with hooks and a Proxy-based API.
+
+[![NPM](https://nodei.co/npm/picoapi.png?compact=true)](https://nodei.co/npm/picoapi/)
 
 <img src="https://github.com/Mitsunee/mitsunee/raw/main/images/384.png" align="left">
 
@@ -35,3 +37,9 @@ In 2017 I made a Damage Calculator based on (at first a python script by G_Heinz
 ## Other Stuff
 
 I also have a [stuff](https://github.com/Mitsunee/stuff) repository where I post other random code snippets in various coding languages and my personal collection of (user)scripts and bookmarklets. Most of them are licensed under WTFPL so feel free to play around with anything in that repo :)
+
+## Future Goals
+
+In 2022 I want to focus a little more on exploring Backend Tech as well as learning a non-web-related programming language for hobby projects as a change of pace. I also want to find more work (either freelance or a part-time position).
+
+More detailed plans as well as a list of things I already learned or am currently learning are on my [Trello board](https://trello.com/b/Btyu4S9s/tech-coding).
