@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://github.com/Mitsunee/mitsunee/raw/main/images/logo4_sticker.svg" width="480px">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mitsunee/mitsunee/raw/main/images/logo4_sticker.svg">
+<img src="https://github.com/Mitsunee/mitsunee/raw/main/images/logo4_logo.svg" alt="Mitsunee" width="480px">
+</picture>
 </p>
 
 # What I do
