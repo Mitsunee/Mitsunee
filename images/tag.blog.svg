@@ -1,0 +1,20 @@
+<svg width="166.2" height="20" viewBox="0 0 1662 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Blog: blog.mitsunee.com">
+  <title>Blog: blog.mitsunee.com</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="1662" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="501" height="200" fill="#555"/>
+    <rect width="1161" height="200" fill="#e05281" x="501"/>
+    <rect width="1662" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="220" y="148" textLength="241" fill="#000" opacity="0.25">Blog</text>
+    <text x="210" y="138" textLength="241">Blog</text>
+    <text x="556" y="148" textLength="1061" fill="#000" opacity="0.25">blog.mitsunee.com</text>
+    <text x="546" y="138" textLength="1061">blog.mitsunee.com</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxsaW5lYXJHcmFkaWVudCBpZD0iZzEiIHgxPSIwIiB5MT0iMS45NDc4MjU5IiB4Mj0iMCIgeTI9IjM4LjA1MjE3NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgPHN0b3Agc3R5bGU9InN0b3AtY29sb3I6I2ZmMzI3NyIgb2Zmc2V0PSIwIi8+CiAgICA8c3RvcCBzdHlsZT0ic3RvcC1jb2xvcjojZmY4ODMzIiBvZmZzZXQ9IjAuNSIvPgogICAgPHN0b3Agc3R5bGU9InN0b3AtY29sb3I6I2ZmZWUzMiIgb2Zmc2V0PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cGF0aCBzdHlsZT0iZmlsbDp1cmwoI2cxKSIgZD0iTSAzOCwyMC4wMDAwMDEgQSAxOCwxOC4wMDAwMDEgMCAwIDEgMjAsMzggMTgsMTguMDAwMDAxIDAgMCAxIDIsMjAuMDAwMDAxIDE4LDE4LjAwMDAwMSAwIDAgMSAyMCwyIDE4LDE4LjAwMDAwMSAwIDAgMSAzOCwyMC4wMDAwMDEgWiIgLz4KICA8cGF0aCBzdHlsZT0iZmlsbDojMDAwIiBkPSJNIDIwLDQgQSAxNiwxNS45OTk5OTkgMCAwIDAgNCwyMCAxNiwxNS45OTk5OTkgMCAwIDAgMjAsMzYgMTYsMTUuOTk5OTk5IDAgMCAwIDM2LDIwIDE2LDE1Ljk5OTk5OSAwIDAgMCAyMCw0IFogbSAtOS40Mzc1LDUuOTI3NzM0NCBoIDQuMDA1ODU5IGwgNC40MDIzNDQsMTEuMDAzOTA2NiBjIDAuMTMxNjY2LDAuMzM4NTcgMC4zMDA5MDgsMC44MTg3NCAwLjUwNzgxMywxLjQzOTQ1MyAwLjIyNTcxMywwLjYwMTkwMyAwLjQ0MTUzMywxLjI1OTg0OSAwLjY0ODQzNywxLjk3NDYwOSAwLjIwNjkwNCwtMC42OTU5NSAwLjQxNDE5LC0xLjM0NTM2MyAwLjYyMTA5NCwtMS45NDcyNjUgMC4yMjU3MTMsLTAuNjIwNzEzIDAuNDEzOTc3LC0xLjEwOTQxOCAwLjU2NDQ1MywtMS40NjY3OTcgTCAyNS43MTI4OTEsOS45Mjc3MzQ0IGggMy45MjE4NzUgbCAxLjEyODkwNiwxOS4xMDE1NjI2IGggLTQuMzczMDQ3IGwgLTAuMTY5OTIyLC0zLjgzNTkzOCBjIC0wLjAxODgxLC0wLjM1NzM3OSAtMC4wMzU4OCwtMC44MjkwMTYgLTAuMDU0NjksLTEuNDEyMTA5IHYgLTEuODMzOTg0IC0xLjk0NTMxMyBjIDAuMDE4ODEsLTAuNjU4MzMxIDAuMDI3MzQsLTEuMjIzMTIzIDAuMDI3MzQsLTEuNjkzMzU5IC0wLjE1MDQ3NSwwLjM5NDk5OSAtMC4zMTk3MTcsMC44NDU2NiAtMC41MDc4MTIsMS4zNTM1MTUgLTAuMTY5Mjg1LDAuNDg5MDQ2IC0wLjM0OTAxNSwwLjk2OTIxNyAtMC41MzcxMDksMS40Mzk0NTMgLTAuMTg4MDk1LDAuNDcwMjM3IC0wLjM2NTg3MiwwLjkxMjM2NCAtMC41MzUxNTcsMS4zMjYxNzIgLTAuMTY5Mjg1LDAuMzk0OTk5IC0wLjMwMDQ4NCwwLjcwNTkyNyAtMC4zOTQ1MzEsMC45MzE2NDEgbCAtMi4zOTg0MzgsNS42Njk5MjIgaCAtMy41MjczNDMgbCAtMi4zNDE3OTcsLTUuNDE2MDE2IGMgLTAuMDU2NDMsLTAuMTUwNDc1IC0wLjE2ODYwNiwtMC40MjMzNiAtMC4zMzc4OTEsLTAuODE4MzU5IC0wLjE1MDQ3NSwtMC40MTM4MDggLTAuMzMwMjA1LC0wLjg3NDk1NyAtMC41MzcxMDksLTEuMzgyODEzIC0wLjE4ODA5NSwtMC41MjY2NjUgLTAuMzg0ODkzLC0xLjA2MzkgLTAuNTkxNzk3LC0xLjYwOTM3NSAtMC4yMDY5MDQsLTAuNTQ1NDc0IC0wLjM5NTE2OCwtMS4wNDI3MTMgLTAuNTY0NDUzLC0xLjQ5NDE0IHYgMS42OTMzNTkgMS45NDUzMTMgYyAwLDAuNjU4MzMxIC0wLjAwODUsMS4yODAxODcgLTAuMDI3MzQsMS44NjMyODEgMCwwLjU4MzA5MyAtMC4wMTA0OSwxLjA0NDI0MiAtMC4wMjkzLDEuMzgyODEyIGwgLTAuMTQwNjI1LDMuODM1OTM4IEggOS40MzM1OTM4IFoiIGFyaWEtbGFiZWw9Ik1pdHN1bmVlIiAvPgo8L3N2Zz4K"/>
+</svg>
