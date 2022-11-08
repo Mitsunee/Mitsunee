@@ -10,7 +10,7 @@
   <a href="https://blog.mitsunee.com"><img src="https://github.com/Mitsunee/mitsunee/raw/main/images/tag.blog.svg" alt="Mitsunee | Blog"></a>
 </p>
 <p align="center">
-  <a href="https://ieji.de/@mitsunee"><img src="https://github.com/Mitsunee/mitsunee/raw/main/images/tag.mastodon.svg" alt="Mastodon: @mitsunee@ieji.de"></a>
+  <a href="https://ieji.de/@mitsunee" rel="me"><img src="https://github.com/Mitsunee/mitsunee/raw/main/images/tag.mastodon.svg" alt="Mastodon: @mitsunee@ieji.de"></a>
   <a href="https://twitter.com/Mitsunee"><img src="https://github.com/Mitsunee/mitsunee/raw/main/images/tag.twitter.svg" alt="Twitter: @Mitsunee"></a>
   <a href="https://www.npmjs.com/~mitsunee"><img src="https://github.com/Mitsunee/mitsunee/raw/main/images/tag.npm.svg" alt="npm: ~mitsunee"></a>
   <a href="https://discord.gg/ZncPkjw"><img src="https://github.com/Mitsunee/mitsunee/raw/main/images/tag.discord.svg" alt="Discord Server"></a>
