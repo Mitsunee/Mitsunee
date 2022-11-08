@@ -1,0 +1,20 @@
+<svg width="138.3" height="20" viewBox="0 0 1383 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="@mitsunee@ieji.de">
+  <title>@mitsunee@ieji.de</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="1383" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="1171" height="200" fill="#6364FF" x="212"/>
+    <rect width="1383" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="1071" fill="#000" opacity="0.25">@mitsunee@ieji.de</text>
+    <text x="257" y="138" textLength="1071">@mitsunee@ieji.de</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjE5MyA3Ljg4YzAtNS4yMDctMy40MTEtNi43MzMtMy40MTEtNi43MzNDMTguMDYyLjM1NyAxNS4xMDguMDI1IDEyLjA0MSAwaC0uMDc2Yy0zLjA2OS4wMjUtNi4wMi4zNTctNy43NCAxLjE0NyAwIDAtMy40MTIgMS41MjYtMy40MTIgNi43MzIgMCAxLjE5My0uMDIzIDIuNjE5LjAxNSA0LjEzLjEyNCA1LjA5Mi45MzQgMTAuMTEgNS42NDEgMTEuMzU1IDIuMTcuNTc0IDQuMDM0LjY5NSA1LjUzNi42MTIgMi43MjItLjE1IDQuMjUtLjk3MiA0LjI1LS45NzJsLS4wOS0xLjk3NXMtMS45NDUuNjEzLTQuMTMuNTRjLTIuMTY1LS4wNzUtNC40NDktLjIzNC00Ljc5OS0yLjg5MmE1LjUgNS41IDAgMDEtLjA0OC0uNzQ1czIuMTI1LjUyIDQuODE4LjY0M2MxLjY0Ni4wNzUgMy4xOS0uMDk3IDQuNzU4LS4yODMgMy4wMDctLjM1OSA1LjYyNS0yLjIxMiA1Ljk1NC0zLjkwNS41MTctMi42NjUuNDc1LTYuNTA4LjQ3NS02LjUwOHptLTQuMDI0IDYuNzA5aC0yLjQ5N3YtNi4xMmMwLTEuMjktLjU0My0xLjk0NC0xLjYyOC0xLjk0NC0xLjIgMC0xLjgwMi43NzYtMS44MDIgMi4zMTN2My4zNDloLTIuNDg0di0zLjM1YzAtMS41MzctLjYwMi0yLjMxMy0xLjgwMi0yLjMxMy0xLjA4NSAwLTEuNjI4LjY1NS0xLjYyOCAxLjk0NXY2LjExOUg0LjgzMVY4LjI4NWMwLTEuMjkuMzI4LTIuMzE0Ljk4Ny0zLjA3LjY4LS43NTkgMS41Ny0xLjE0NyAyLjY3NC0xLjE0NyAxLjI3OCAwIDIuMjQ2LjQ5MSAyLjg4NiAxLjQ3NEwxMiA2LjU4NWwuNjIyLTEuMDQzYy42NC0uOTgzIDEuNjA4LTEuNDc0IDIuODg2LTEuNDc0IDEuMTA0IDAgMS45OTQuMzg4IDIuNjc0IDEuMTQ2LjY1OC43NTcuOTg2IDEuNzgxLjk4NiAzLjA3djYuMzA1eiIvPjwvc3ZnPgo="/>
+</svg>
